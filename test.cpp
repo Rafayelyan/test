@@ -2,6 +2,6 @@ include <iostream>
 
 int main()
 {
-	std::cout<<"test5"<<std::endl;
+	std::cout<<"test6"<<std::endl;
 	return 0;
 }
